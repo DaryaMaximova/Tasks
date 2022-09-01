@@ -1,0 +1,15 @@
+C:\Tasks\Ex004\bin\Debug\net6.0\Ex004.exe
+C:\Tasks\Ex004\bin\Debug\net6.0\Ex004.deps.json
+C:\Tasks\Ex004\bin\Debug\net6.0\Ex004.runtimeconfig.json
+C:\Tasks\Ex004\bin\Debug\net6.0\Ex004.dll
+C:\Tasks\Ex004\bin\Debug\net6.0\Ex004.pdb
+C:\Tasks\Ex004\obj\Debug\net6.0\Ex004.csproj.AssemblyReference.cache
+C:\Tasks\Ex004\obj\Debug\net6.0\Ex004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tasks\Ex004\obj\Debug\net6.0\Ex004.AssemblyInfoInputs.cache
+C:\Tasks\Ex004\obj\Debug\net6.0\Ex004.AssemblyInfo.cs
+C:\Tasks\Ex004\obj\Debug\net6.0\Ex004.csproj.CoreCompileInputs.cache
+C:\Tasks\Ex004\obj\Debug\net6.0\Ex004.dll
+C:\Tasks\Ex004\obj\Debug\net6.0\refint\Ex004.dll
+C:\Tasks\Ex004\obj\Debug\net6.0\Ex004.pdb
+C:\Tasks\Ex004\obj\Debug\net6.0\Ex004.genruntimeconfig.cache
+C:\Tasks\Ex004\obj\Debug\net6.0\ref\Ex004.dll
